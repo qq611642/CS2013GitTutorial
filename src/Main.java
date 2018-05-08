@@ -2,8 +2,8 @@
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World!");
-		System.out.println("My First Git Project!");
+		System.out.println("Hello Earth!");
+		System.out.println("My Third Git Project!");
 		
 		Person p1 = new Person("John", 45, 12345);
 		
